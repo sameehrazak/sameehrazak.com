@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sameehrazak.com/static/css/main.58a0c615.css",
-    "main.js": "/sameehrazak.com/static/js/main.65708dfe.js",
-    "static/media/HeroImage.jpg": "/sameehrazak.com/static/media/HeroImage.23a83d220a586e6ce74e.jpg",
-    "index.html": "/sameehrazak.com/index.html",
-    "main.58a0c615.css.map": "/sameehrazak.com/static/css/main.58a0c615.css.map",
-    "main.65708dfe.js.map": "/sameehrazak.com/static/js/main.65708dfe.js.map"
+    "main.css": "/static/css/main.58a0c615.css",
+    "main.js": "/static/js/main.608512a4.js",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.23a83d220a586e6ce74e.jpg",
+    "index.html": "/index.html",
+    "main.58a0c615.css.map": "/static/css/main.58a0c615.css.map",
+    "main.608512a4.js.map": "/static/js/main.608512a4.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.65708dfe.js"
+    "static/js/main.608512a4.js"
   ]
 }
